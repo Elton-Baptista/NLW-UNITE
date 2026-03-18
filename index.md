@@ -6,7 +6,7 @@ Projeto desenvolvido durante estudos práticos com foco em HTML, CSS e JavaScrip
 - Interface web
 - Navegação entre páginas
 - Estrutura de layout
-
+- 
 ## Tecnologias
 HTML, CSS, JavaScript
   
